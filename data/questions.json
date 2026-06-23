@@ -1,0 +1,124 @@
+{
+   "cuestionarios": {
+      "cuestionario_1": {
+         "titulo": "Fracciones",
+         "preguntas": {
+            "q1": {
+               "imagen": "c1p1.jpg",
+               "respuestas": ["2/6"],
+               "recomendacion": "Las partes en las que se partió la pizza van en el denominador (o sea, abajo), y la cantidad de pedazos que se comió va en el numerador (o sea, arriba). Pon el resultado en formato diagonal (por ejemplo, un medio se escribiría 1/2 y dos sextos se escribiría 2/6)."
+            },
+            "q2": {
+               "imagen": "c1p2.jpg",
+               "respuestas": ["2/3", "4/6", "8/12"],
+               "recomendacion": "Primero saca la fracción que te comiste, y después réstasela a 12/12. De lo que te salió, divide tanto la parte de arriba como la de abajo entre 2 en repetidas ocasiones hasta que ya no se pueda dividir más."
+            },
+            "q3": {
+               "imagen": "c1p3.jpg",
+               "respuestas": ["5/6"],
+               "recomendacion": "Haz que 2/3 y 5/6 sean equivalentes, por ejemplo podrías multiplicar 2/3 por 2/2."
+            },
+            "q4": {
+               "imagen": "c1p4.jpg",
+               "respuestas": ["10", "10 pedazos", "10/10", "1/10", "7/10", "3/10"],
+               "recomendacion": "Fíjate en los pedazos que quedan del pastel, y luego súmale 3."
+            },
+            "q5": {
+               "imagen": "c1p5.jpg",
+               "respuestas": ["27/48"],
+               "recomendacion": "Multiplica 3/8 por 9/6, o haz la operación cruzada que vimos en la asesoría entre 3/8 y 6/9."
+            }
+         }
+      },
+      "cuestionario_2": {
+         "titulo": "Operaciones con punto decimal",
+         "preguntas": {
+            "q1": {
+               "imagen": "c2p1.jpg",
+               "respuestas": ["25.50", "25.5", "$25.50", "$25.5", "25.50 pesos", "25.5 pesos"],
+               "recomendacion": "Si se te complica la multiplicación, simplemente suma 12.75 + 12.75."
+            },
+            "q2": {
+               "imagen": "c2p2.jpg",
+               "respuestas": ["2"],
+               "recomendacion": "Después del punto el orden de cada dígito es décimo, centésimo, y milésimo."
+            },
+            "q3": {
+               "imagen": "c2p3.jpg",
+               "respuestas": ["1.7", "1.70"],
+               "recomendacion": "Fíjate en el valor del décimo de ambos números. Debes poner el número tal y como está en la pregunta."
+            },
+            "q4": {
+               "imagen": "c2p4.jpg",
+               "respuestas": ["12"],
+               "recomendacion": "El número que está antes del punto es el entero."
+            },
+            "q5": {
+               "imagen": "c2p5.jpg",
+               "respuestas": ["49.2", "49.20"],
+               "recomendacion": "Recuerda sumar decimales con decimales y enteros con enteros."
+            }
+         }
+      },
+      "cuestionario_3": {
+         "titulo": "Cálculo de áreas",
+         "preguntas": {
+            "q1": {
+               "imagen": "c3p1.jpg",
+               "respuestas": ["12", "12 cuadros", "12 cuadritos"],
+               "recomendacion": "El área de un rectángulo es base por altura, por lo que debes multiplicar 3 por 4."
+            },
+            "q2":{
+               "imagen":"c3p2.jpg",
+               "respuestas":["153.86", "153.8", "153.86 cm", "153.86 centímetros", "153.86 centimetros", "153.8 cm", "153.8 centímetros", "153.8 centimetros"],
+               "recomendacion":"Primero debes multiplicar el radio por sí mismo, o sea 7 por 7, y después eso multiplícalo por 3.14."
+            },
+            "q3":{
+               "imagen":"c3p3.jpg",
+               "respuestas":["6.3", "6.30", "6.3m", "6.30m", "6.3 m", "6.30 m", "6.3 metros", "6.30 metros"],
+               "recomendacion":"La base del triángulo es 4.2 y su altura es 3. Debes multiplicar 4.2 por 3, y luego eso dividirlo entre 2."
+            },
+            "q4":{
+               "imagen":"c3p4.jpg",
+               "respuestas": ["144"],
+               "recomendacion":"El área de un cuadrado es lado por lado, así que debes multiplicar 12 por 12."
+            },
+            "q5": {
+               "imagen": "c3p5.jpg",
+               "respuestas": ["110"],
+               "recomendacion": "El área de un trapecio es base mayor más base menor, luego eso por la altura, y luego eso entre dos. Por ende, debes sumar 14 más 8, eso multiplicarlo por 10, y eso dividirlo entre dos."
+            }
+         }
+      },
+      "cuestionario_4": {
+         "titulo": "Ley de signos",
+         "preguntas": {
+            "q1": {
+               "imagen": "c4p1.jpg",
+               "respuestas": ["-12", "$-12", "-$12", "-12 pesos"],
+               "recomendacion": "Recuerda que ambos números se restan y se conserva el signo del número más grande, por ende el resultado es negativo (o sea, empieza con un signo menos)."
+            },
+            "q2": {
+               "imagen": "c4p2.jpg",
+               "respuestas": ["-12"],
+               "recomendacion": "Recuerda que multiplicar signos diferentes da como resultado un número negativo."
+            },
+            "q3": {
+               "imagen": "c4p3.jpg",
+               "respuestas": ["72", "+72"],
+               "recomendacion": "Recuerda que multiplicar signos iguales siempre da como resultado un número positivo."
+            },
+            "q4": {
+               "imagen": "c4p4.jpg",
+               "respuestas": ["20", "$20", "20 pesos"],
+               "recomendacion": "Simplemente resta 50 - 30."
+            },
+            "q5": {
+               "imagen": "c4p5.jpg",
+               "respuestas": ["-40", "$-40", "-$40", "-40 pesos"],
+               "recomendacion": "Cuando ambos números tienen el mismo signo entonces se suman y el signo se conserva. En este caso ambos números son negativos, por lo que el resultado es un número negativo."
+            }
+         }
+      }
+   }
+}
