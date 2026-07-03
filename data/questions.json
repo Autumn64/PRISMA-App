@@ -5,7 +5,7 @@
          "preguntas": {
             "q1": {
                "imagen": "c1p1.jpg",
-               "respuestas": ["2/6"],
+               "respuestas": ["2/6", "1/3"],
                "recomendacion": "Las partes en las que se partió la pizza van en el denominador (o sea, abajo), y la cantidad de pedazos que se comió va en el numerador (o sea, arriba). Pon el resultado en formato diagonal (por ejemplo, un medio se escribiría 1/2 y dos sextos se escribiría 2/6)."
             },
             "q2": {
