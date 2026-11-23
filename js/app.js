@@ -1,7 +1,7 @@
 // PRISMA APP. 2026.
 
 // Módulos y constantes
-const QUESTIONS_URL = '/data/questions.json';
+const QUESTIONS_URL = '/PRISMA-App/data/questions.json';
 const STORAGE_KEY_UNLOCK = 'mathkids_unlocked_games';
 const STORAGE_KEY_PROGRESS = 'mathkids_progress';
 
@@ -219,7 +219,7 @@ function renderQuestion(){
     const img = document.createElement('img');
     img.alt = 'Pregunta';
     // Carga segura de imagen (para evitar inyecciones y cosas así)
-    img.src = `assets/${encodeURIComponent(q.imagen)}`;
+    img.src = `PRISMA-App/assets/${encodeURIComponent(q.imagen)}`;
     imgArea.appendChild(img);
   } else {
     const placeholder = document.createElement('div');
