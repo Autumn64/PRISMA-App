@@ -219,7 +219,7 @@ function renderQuestion(){
     const img = document.createElement('img');
     img.alt = 'Pregunta';
     // Carga segura de imagen (para evitar inyecciones y cosas así)
-    img.src = `PRISMA-App/assets/${encodeURIComponent(q.imagen)}`;
+    img.src = `assets/${encodeURIComponent(q.imagen)}`;
     imgArea.appendChild(img);
   } else {
     const placeholder = document.createElement('div');
